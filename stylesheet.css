@@ -1,0 +1,232 @@
+body {
+    background-color: #A9F5BC;
+    background-attachment: fixed;
+    font-family: Verdana;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: lightgreen;
+    height: 100%;
+    position: fixed;
+    overflow: auto;
+
+}
+
+li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: lightblue;
+    color: black;
+}
+.active {
+    background-color: #FFFF00;
+    color: black;
+}
+
+h1 {
+    position: absolute;
+    left: 243px;
+    top: 5px;
+    font-size: 37px;
+    background-color: white;
+    padding:11px;
+    border:9px solid lightblue;
+}
+
+h2 {
+    position: absolute;
+    left: 220px;
+    top: 0px;
+    font-size: 37px;
+    background-color: white;
+    padding:11px;
+    border:9px solid lightblue;
+}
+
+h3 {
+    position: absolute;
+    left: 220px;
+    top: 385px;
+    font-size: 37px;
+    background-color: white;
+    padding:11px;
+    border:9px solid lightblue;
+
+}
+
+#tekstboven1 {
+   position: absolute;
+   left: 761px;
+   top: 112px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+
+#tekstonder1 {
+   position: absolute;
+   left: 243px;
+   top: 448px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+
+#tekstboven2 {
+   position: absolute;
+   left: 220px;
+   top: 110px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+
+#tekstonder2 {
+    position: absolute;
+    left: 220px;
+    top: 500px;
+    padding:11px;
+    border:9px solid lightgreen;
+    background-color: white;
+}
+
+#sportsalade {
+   position: relative;
+   left: 243px;
+   top: 125px;
+   padding:11px;
+   border:1px solid lightgreen;
+   background-color: lightgreen;
+}
+
+#sport {
+   position: relative;
+   left: 500px;
+   top: 275px;
+   padding:11px;
+   border:1px solid lightgreen;
+   background-color: lightgreen;
+}
+
+#nederland {
+   position: relative;
+   left: 900px;
+   top: 115px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: lightgreen;
+}
+
+#ingrediënten {
+   position: absolute;
+   left: 245px;
+   top: 130px;
+   font-size: 20px;
+   padding:11px;
+   border:9px solid lightblue;
+   background-color: white;
+}
+
+#voedingswaarde {
+   position: relative;
+   left: 600px;
+   top: 175px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+#grillpan {
+   position: absolute;
+   left: -9px;
+   top: 200px;
+   font-size: 20px;
+   padding:11px;
+   border:9px solid lightblue;
+   background-color: white;
+}
+
+#boodschap {
+   position: relative;
+   left: 630px;
+   top: 200px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+
+#bereidingswijze {
+   position: absolute;
+   left: 245px;
+   top: 120px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+
+#tip {
+   position: absolute;
+   left: 245px;
+   top: 550px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+
+#snijplank {
+   position: relative;
+   left: 500px;
+   top: 400px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
+
+#voeding {
+   position: absolute;
+   left: 600px;
+   top: 130px;
+   font-size: 20px;
+   padding:11px;
+   border:9px solid lightblue;
+   background-color: white;
+}
+
+h4 {
+   position: absolute;
+   left: 243px;
+   top: -17px;
+   font-size: 37px;
+   background-color: white;
+   padding:11px;
+   border:9px solid lightblue;
+}
+
+h5 {
+   position: absolute;
+   left: 245px;
+   top: -17px;
+   font-size: 37px;
+   background-color: white;
+   padding:11px;
+   border:9px solid lightblue;
+}
+
+form {
+   position: absolute;
+   left: 245px;
+   top: 220px;
+   padding:11px;
+   border:9px solid lightgreen;
+   background-color: white;
+}
